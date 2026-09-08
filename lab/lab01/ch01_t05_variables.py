@@ -1,2 +1,2 @@
-print = ("todays date"
+print = ["todays date"
 print = 8
