@@ -1,4 +1,4 @@
 cucumber=100   
 num-people=6   
 
-whole-cucumber-per-person
+whole_cucumber_per_person
