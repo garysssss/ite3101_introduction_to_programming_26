@@ -1,2 +1,2 @@
-print('hello how much of the water')
+print=(hello how much of the water)
 print
