@@ -12,6 +12,6 @@ october_rainfall = 7.20
 november_rainfall = 5.06
 december_rainfall = 4.06
 
-july_to_december_rainfall =1.05+4.91+5.16+7.20+5.06+4.06
+july_to_december_rainfall = 1.05+4.91+5.16+7.20+5.06+4.06
 
 annual_rainfall =
