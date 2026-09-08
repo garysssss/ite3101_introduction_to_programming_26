@@ -1,4 +1,4 @@
-address_string
+address_string=
 haiku=The old pond, 
 A frog jumps in: 
 Plop!
