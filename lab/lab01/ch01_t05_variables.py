@@ -1,2 +1,2 @@
-print = ('todaydate')
-print = 8
+print = ('todaysdate')
+print = 
