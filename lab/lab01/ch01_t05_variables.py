@@ -1,2 +1,2 @@
-print=(hello how much of the water)
-print
+print = (hello how much of the water)
+print = 8
