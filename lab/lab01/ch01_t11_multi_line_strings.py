@@ -1,4 +1,4 @@
-address_string=haiku
-haiku=“”“Theold^^^pond 
+address_string = haiku
+haiku ="""Theold^^^pond 
 A frog jumps in,
-Plop!
+Plop!""
