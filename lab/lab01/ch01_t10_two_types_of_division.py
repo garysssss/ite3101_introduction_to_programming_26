@@ -2,4 +2,4 @@ cucumber=100
 num_people=6   
 
 whole_cucumber_per_person=
-cucumber//
+cucumber//num_peopleprint(whole_cucumber_per_person)
