@@ -14,4 +14,4 @@ december_rainfall = 4.06
 
 july_to_december_rainfall = 1.05+4.91+5.16+7.20+5.06+4.06
 
-annual_rainfall =
+annual_rainfall = january_to_june_rainfall + july_to_december_rainfall
