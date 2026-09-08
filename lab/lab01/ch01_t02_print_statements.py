@@ -1,1 +1,1 @@
-ptint("s")
+ptint("")
