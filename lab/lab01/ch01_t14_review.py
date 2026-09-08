@@ -1,2 +1,3 @@
 skill_completed = "Python Syntax "
-exetises 
+exercises_completed = 13
+point
