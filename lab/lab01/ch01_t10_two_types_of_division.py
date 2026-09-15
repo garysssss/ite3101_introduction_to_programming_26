@@ -2,6 +2,6 @@ cucumber = [100]
 num_people = [6]
 
 hole_cucumber_per_person = cucumber//num_people
-printrint('whole_cucumber_per_person')
+print('whole_cucumber_per_person')
 float_cucumber_per_person = cucumber/Num_people
 printrint('float_cucumer_per_person')
