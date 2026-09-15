@@ -1,6 +1,6 @@
--	Set caesar to "Graham"
--	Set praline to "John"
-viking to "Teresa"
+caesar = "Graham"
+praline = "John"
+viking = "Teresa"
 
 
 
