@@ -1,4 +1,4 @@
-bool_one = False
+bool_one = 2 ** 3 == 108 % 100 or 'Cleese' == 'King Arthur'
 
 bool_two = None
 
