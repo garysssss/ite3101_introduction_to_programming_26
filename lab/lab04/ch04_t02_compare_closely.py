@@ -10,7 +10,6 @@ bool_two = True
 bool_three = False
 
 #Set this to True if -22 >= -18 or to False if it is not.
-bool_four = None
-
+bool_four = False
 #Set this to True if 99 != (98 + 1) or to False otherwise.
-bool_five = None
+bool_five = False
