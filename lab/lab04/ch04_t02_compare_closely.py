@@ -12,5 +12,5 @@ bool_three = None
 #Set this to True if -22 >= -18 or to False if it is not.
 bool_four = None
 
-Set this to True if 99 != (98 + 1) or to False otherwise.
+#Set this to True if 99 != (98 + 1) or to False otherwise.
 bool_five = None
