@@ -1,1 +1,1 @@
-print("Pi")
+print("Pig Latin")
