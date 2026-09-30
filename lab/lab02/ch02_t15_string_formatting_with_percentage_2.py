@@ -1,6 +1,6 @@
-name = "gary" ("What is your name? ")
-quest = "20" ("What is your quest? ")
-color = "red" ("What is your favorite color? ")
+name = input ("What is your name? ")
+quest = input ("What is your quest? ")
+color = input ("What is your favorite color? ")
 
 
 print("Ah, so your name is %s, your quest is %s, "
