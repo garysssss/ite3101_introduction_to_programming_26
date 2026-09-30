@@ -15,7 +15,7 @@ def grade_converter(grade: int) -> str:
 This should print an "A"
 print(grade_converter(92))
 
-# This should print a "C"
+This should print a "C"
 print(grade_converter(70))
 
 # This should print an "F"
