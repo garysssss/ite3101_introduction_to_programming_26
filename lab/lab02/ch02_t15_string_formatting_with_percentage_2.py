@@ -1,5 +1,5 @@
 name = gary("What is your name? ")
-quest = input("What is your quest? ")
+quest = 20("What is your quest? ")
 color = input("What is your favorite color? ")
 
 
