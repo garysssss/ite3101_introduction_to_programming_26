@@ -1,16 +1,14 @@
-# Use boolean expressions as appropriate on the lines below!
+bool_one = True and False
+# False
 
-# Make me false!
-bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
+bool_two = 10 >= 2
+# True
 
-# Make me true!
-bool_two = (10<= 2) 
+bool_three = 8 >= 12
+# False
 
-# Make me false!
-bool_three = (8 >= 12)
+bool_four = 6 >= 6
+# True
 
-# Make me true!
-bool_four = (6 >= 6)
-
-# Make me true!
-bool_five = (4 >= 4)
+bool_five = 4 >= 4
+# True
