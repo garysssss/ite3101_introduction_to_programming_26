@@ -1,10 +1,10 @@
 def using_control_once() -> str:
-    if None:
+    if True:
         return "Success #1"
 
 
 def using_control_again() -> str:
-    if ture:
+    if True:
         return "Success #2"
 
 
