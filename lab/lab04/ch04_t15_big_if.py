@@ -18,5 +18,5 @@ print(grade_converter(92))
 This should print a "C"
 print(grade_converter(70))
 
-# This should print an "F"
+This should print an "F"
 print(grade_converter(61))
