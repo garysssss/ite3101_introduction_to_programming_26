@@ -7,5 +7,5 @@ if len(original) > 0:
     print(original)
 else:
     print("empty")
-x = "J123" 
+x = "empty" 
 x.isalpha('False')
