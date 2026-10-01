@@ -1,3 +1,3 @@
 print('Welcome to the Pig Latin Translator!')
 
-'name' = input("gary")
+'na' = input("what's your name?")
