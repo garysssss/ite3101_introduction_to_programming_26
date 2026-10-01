@@ -8,4 +8,4 @@ if len(original) > 0:
 else:
     print("empty")
 x = "J123" 
-x.isalpha() This will return 'False'
+x.isalpha(This will return 'False')
