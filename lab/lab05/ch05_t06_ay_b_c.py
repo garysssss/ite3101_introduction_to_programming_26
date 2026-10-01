@@ -1,1 +1,1 @@
-print('welcome to the pig latin t')
+print('welcome to the pig latin translator')
