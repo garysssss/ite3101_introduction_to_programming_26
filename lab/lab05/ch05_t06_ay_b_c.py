@@ -4,7 +4,7 @@ pyg= 'ay'
 
 original = input("enter a word:")
 
-if len(original) > 0 and original.isalpha();
+if len(original) > 0 and original.isalpha():
     print(original)
 else:
     print("empty")
