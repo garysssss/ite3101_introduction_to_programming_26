@@ -4,4 +4,4 @@ pyg= 'ay'
 
 original = input("enter a word:")
 
-if len(original) > 0 and 
+if len(original) > 0 and original
