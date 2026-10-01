@@ -1,3 +1,5 @@
 print('Welcome to the Pig Latin Translator!')
 
-'gary' = input("what's your name?")
+name = input("What's your name? ")
+
+print(name)
