@@ -12,8 +12,6 @@ def tip(bill: float) -> float:
     return bill
 
 
-meal_cost = 200
+meal_cost = 2002
 meal_with_tax = tax(meal_cost)
 meal_with_tip = tip(meal_with_tax)
-
-
