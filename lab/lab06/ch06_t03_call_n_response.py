@@ -5,6 +5,5 @@ def square(n: float) -> float:
     return squared
 
 # Call the square function on line 10! Make sure to
-# include the number 10 between the parentheses.
-
-spam()
+# include the number 10 between the parentheses
+de
