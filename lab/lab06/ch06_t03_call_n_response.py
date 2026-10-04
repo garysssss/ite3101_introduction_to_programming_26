@@ -8,3 +8,4 @@ def square(n: float) -> float:
 # include the number 10 between the parentheses
 def square(n):
     print(n**2)
+square(10)
