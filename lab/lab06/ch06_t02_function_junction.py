@@ -3,7 +3,6 @@
 # explain it soon!
 
 
-
 def spam():
     """ this function prints Eggs! """
     print("Eggs!")
