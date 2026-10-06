@@ -1,3 +1,3 @@
-minimum = min(12, 35, 7, 99, 46)
+minimum = min(-11.1, 5.2, 12.7)
 
 print(minimum)
