@@ -5,3 +5,4 @@ def fizz_count(x: list[str]):
     for item in x :
     if item == "fizz":
         count += =1
+    return count
