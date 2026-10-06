@@ -3,5 +3,4 @@ def power(base: int, exponent: int) -> int:
     print("%d to the power of %d is %d." % (base, exponent, result))
     return result
 
-
     power(37, 4)
