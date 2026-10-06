@@ -1,2 +1,2 @@
-maximum = max(12, 35, 7, 99, 46)
+maximum = max(10.5, 12.1, 8.3)
 print(maximum)
