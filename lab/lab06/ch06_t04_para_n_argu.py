@@ -1,6 +1,7 @@
-def power(base, 37):  # Add your parameters here!
+def power(base: int, exponent: int) -> int:
     result = base ** exponent
     print("%d to the power of %d is %d." % (base, exponent, result))
+    return result
 
 
-power(base, 37)  # Add your arguments here!
+power(37, 4)
