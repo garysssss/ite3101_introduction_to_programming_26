@@ -1,6 +1,9 @@
-def square(n: int) -> int:
+def square(n: float) -> float:
     """Returns the square of a number."""
-    return n ** 2
+    squared = n ** 2
+    print("%d squared is %d." % (n, squared))
+    return squared
 
-
-print(square(10))
+# Call the square function on line 10! Make sure to
+# include the number 10 between the parentheses
+square(10)
