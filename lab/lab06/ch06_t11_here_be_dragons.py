@@ -1,4 +1,4 @@
-from math import
+from math import *
 
 everything = dir()
 print(everything)
