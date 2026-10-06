@@ -4,3 +4,4 @@ def power(base: int, exponent: int) -> int:
     return result
 
     power(37, 4)
+d
