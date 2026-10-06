@@ -1,4 +1,4 @@
-import math  # Imports the math module
+import math
 
-everything = dir(math)  # Sets everything to a list of things from math
-print(everything)  # Prints 'em all!
+everything = dir(math)
+print(everything)
