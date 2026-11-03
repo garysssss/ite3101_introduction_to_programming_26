@@ -1,1 +1,1 @@
-def is_prime(x:int) ->
+def is_prime(x:int) ->int:
