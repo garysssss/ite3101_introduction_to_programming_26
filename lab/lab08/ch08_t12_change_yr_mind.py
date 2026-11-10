@@ -10,7 +10,7 @@ zoo_animals = {'Unicorn': 'Cotton Candy House',
 del zoo_animals['Unicorn']
 
 # Your code here!
-del zoo_animals['Sloth']         # 刪除樹懶
+del zoo_animals['Sloth']         
 del zoo_animals['Bengal Tiger']  
-
+print
 print(zoo_animals)
