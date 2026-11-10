@@ -11,6 +11,6 @@ del zoo_animals['Unicorn']
 
 # Your code here!
 del zoo_animals['Sloth']         # 刪除樹懶
-del zoo_animals['Bengal Tiger']  # 刪除孟加拉虎
+del zoo_animals['Bengal Tiger']  
 
 print(zoo_animals)
