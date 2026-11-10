@@ -20,7 +20,3 @@ def rental_car_cost(days: int) -> int:
     elif days >= 3:
         cost -= 20
     return cost
-
-
-def trip_cost(city: str, days: int, spending_money: int = 0) -> int:
-    return rental_car_cost(days) + hotel_cost(days) + plane_ride_cost(city) + spending_money
