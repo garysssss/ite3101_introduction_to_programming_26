@@ -1,4 +1,3 @@
-# The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
 global hotel_cost
 global plane_ride_cost
 global rental_car_cost

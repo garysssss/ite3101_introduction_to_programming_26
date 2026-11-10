@@ -17,6 +17,7 @@ def plane_ride_cost(city: str) -> int:
         return 222
     elif city == "Los Angeles":
         return 475
+    return 0
 
 
 def rental_car_cost(days: int) -> int:
@@ -33,5 +34,4 @@ def trip_cost(city: str, days: int, spending_money: int = 0) -> int:
 
 
 if __name__ == '__main__':
-    # Change below line
-    print()
+    print(trip_cost("Los Angeles", 5, 600))
