@@ -1,5 +1,5 @@
 from math import *
 
-everything = dir()
+everything = dir(math)
 print(everything)
 
