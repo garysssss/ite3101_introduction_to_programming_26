@@ -22,7 +22,6 @@ def rental_car_cost(days: int) -> int:
     return cost
 
 
-# 新增這個函數來把所有費用加總 (Pull it together)
 def trip_cost(city: str, days: int, spending_money: int = 0) -> int:
-    # 這裡的 hotel_cost 通常與天數 (days) 相同
+
     return rental_car_cost(days) + hotel_cost(days) + plane_ride_cost(city) + spending_money
