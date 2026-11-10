@@ -1,2 +1,4 @@
 backpack = ['xylophone', 'dagger', 'tent', 'bread loaf']
-sorted
+
+
+backpack.remove('dagger')
