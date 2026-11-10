@@ -1,7 +1,9 @@
 suitcase = []
 suitcase.append("sunglasses")
 
-# Your code here!
+# suitcase.append("shirt")    # 加入第二件物品
+suitcase.append("pants")    # 加入第三件物品
+suitcase.append("shoes")Your code here!
 
 
 list_length = 1  # Set this to the length of suitcase
