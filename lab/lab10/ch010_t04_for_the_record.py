@@ -18,7 +18,7 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
-print the student's name
-print the student's homework
-print the student's quizzes
-print the student's tests
+print the students name
+print the students homework
+print the students quizzes
+print the students tests
