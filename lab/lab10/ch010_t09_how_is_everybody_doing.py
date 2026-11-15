@@ -64,4 +64,4 @@ def get_class_average(class_list: List[dict]) -> float:
         results.append(get_average(student))
     return average(results)
 
-def class_average_mark(students_list: list)
+def class_average_mark(students_list: list[])
