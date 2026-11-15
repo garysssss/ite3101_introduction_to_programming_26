@@ -19,3 +19,9 @@ tyler = {
 
 
 # Add your function below!
+def get_average(student):
+    homework = average(student["homework"])
+    quizzes = average(student["quizzes"])
+    tests = average(student["tests"])
+    
+    return 0.1 * homework + 0.3 * quizzes + 0.6 * tests
