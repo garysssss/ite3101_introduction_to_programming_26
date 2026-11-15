@@ -41,6 +41,6 @@ def get_average(student: dict) -> float:
     return 0.1 * homework + 0.3 * quizzes + 0.6 * tests
 
 # Add your function below!
-def if average < '90'
+def if average >'90'
     return "A"
-    elif average
+    elif average >80
