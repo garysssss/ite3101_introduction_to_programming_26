@@ -19,6 +19,6 @@ tyler = {
 students = [lloyd, alice, tyler]
 
 print (students "name")
-print (the students "homework")
+print (students "homework")
 print (the students "quizzes")
 print (the students "tests")
