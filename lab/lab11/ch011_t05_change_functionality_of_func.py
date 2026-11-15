@@ -1,5 +1,4 @@
-number = 5
-x=number
+number =5
 
 
 
