@@ -1,3 +1,3 @@
 n = [1, 3, 5]
-n
+n = (1:3)
 # Add your code below
