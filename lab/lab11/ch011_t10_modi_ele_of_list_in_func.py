@@ -2,7 +2,7 @@ from typing import List
 
 
 def list_function(x: List[int]) -> int:
-    return x[0]
+    return x[+3]
 
 
 n = [3, 5, 7]
