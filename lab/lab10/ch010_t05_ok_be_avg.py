@@ -17,11 +17,6 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 
-for student in students:
-    print(student["name"])
-    print(student["homework"])
-    print(student["quizzes"])
-    print(student["tests"])
 
 # Add your function below!
 def get_average(student):
