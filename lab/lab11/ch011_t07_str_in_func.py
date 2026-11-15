@@ -1,5 +1,5 @@
 n = "Hello"
 # Your function here!
-def""""""
+def""""hello"""
 
 # print(string_function(n))
