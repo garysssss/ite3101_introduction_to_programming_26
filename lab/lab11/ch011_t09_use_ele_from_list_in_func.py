@@ -1,7 +1,7 @@
 from typing import List
 
 
-def list_function(item: List
+def list_function(item: 
 
 
 n = [3, 5, 7]
