@@ -1,6 +1,6 @@
 n = [3, 5, 7]
 
-def list_extender(lst: List[int])->List[int]:
+def list_extender(lst: List[int]) -> List[int]:
     lst.append(9)
     return lst
 
