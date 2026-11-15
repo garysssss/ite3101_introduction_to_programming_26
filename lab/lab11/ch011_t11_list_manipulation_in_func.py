@@ -1,6 +1,5 @@
 n = [3, 5, 7]
-# Ad
-# d your function 
+def list_extender(lst=[n])
 n.append(9)
 
 # print(list_extender(n))
