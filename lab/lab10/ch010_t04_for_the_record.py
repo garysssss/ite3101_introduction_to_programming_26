@@ -18,7 +18,7 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
-import
+import students
 print(students["name"])
 print(students["homework"])
 print(students["quizzes"])
