@@ -1,4 +1,6 @@
 number = 5
+x=number
+
 
 
 def my_function(x: int) -> int:
