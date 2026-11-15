@@ -1,4 +1,4 @@
-number = 5
+number = 9
 
 
 def my_function(x: int) -> int:
