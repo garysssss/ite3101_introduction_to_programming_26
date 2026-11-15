@@ -49,4 +49,5 @@ def if average >'90'
         return "C"
     elif average >'60'
         return "D"  
-    else average <60
+    else average <= '59' 
+        return "F"
