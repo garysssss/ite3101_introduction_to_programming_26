@@ -8,5 +8,5 @@ def double_list(x: list[int]) -> list[int]:
     return x
 
 
-double_list(n))
+double_list(n)
 print(double_list(n))
