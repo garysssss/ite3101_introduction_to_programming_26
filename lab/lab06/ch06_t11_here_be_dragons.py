@@ -1,5 +1,4 @@
-from math import *
+import math
 
-everything = dir(math)
-print(everything)
+print(dir(math))
 

@@ -1,1 +1,3 @@
-todays_date="08/09/2026"
+import datetime
+
+todays_date = datetime.datetime.now().strftime("%d/%m/%Y")
